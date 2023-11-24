@@ -1,9 +1,0 @@
-Homework 1: Sum Calculator
-
-This project is a sum calculator website created using JavaScript, HTML and CSS styling and has been made accessible via localport:3000 and also a localhost link.
-
-Visitors to the webpage are prompted to enter their first number and second number. This can be done by inserting numerical values into the corresponding input boxes, or by clicking up/down on the arrow key buttons.
-
-When the user inputs two numbers and clicks the submit button, the result is revealed in the result box below.
-
-Note; the user is restricted from inputting non-numeric values into the input boxes by assigning the input type="number" in index.html.
